@@ -48,7 +48,7 @@ personalize/
 1. **Clone this repository**:
 
    ```bash
-   git clone https://github.com/thesalmajudah/personalize.git
+   git clone https://github.com/thesalmajudah/harvard-cs50.git
    cd personality-type-predictor
    ```
 
